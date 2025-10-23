@@ -8,6 +8,7 @@ Tools:
 - [Aseprite](https://www.aseprite.org/) Required, but has a one-time payment.
 - [Libresprite](https://libresprite.github.io/#!/) Optional, the free alternative of Aseprite, but slightly behind in features and updates.
 - [Pixelorama](https://orama-interactive.itch.io/pixelorama) Optional, a powerful and accessible open-source pixel art multitool.
+- [SteamDB](https://steamdb.info/app/211820/depots/) Required, has the oldest/latest manifests and builds.
 
 **Disclaimer!**
 You must own Starbound to mod the game. Cracked versions are for educational purposes only and are not supported.
