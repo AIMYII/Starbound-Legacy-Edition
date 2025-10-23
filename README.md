@@ -24,5 +24,4 @@ How to Contribute:
 - Check the Notable Changes notes to see added weapons, removed assets, and other lost content.
 
 
-Disclaimer
 **This is a fan-made mod. Starbound and its assets are owned by Chucklefish. This project is not affiliated with or endorsed by Chucklefish.**
