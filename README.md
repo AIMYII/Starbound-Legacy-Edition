@@ -7,7 +7,7 @@ Tools:
 - [VS Code](https://code.visualstudio.com/) Required, use add-ons for Lua and C++. Recommended.
 - [Aseprite](https://www.aseprite.org/) Required, but has a one-time payment.
 - [Libresprite](https://libresprite.github.io/#!/) Optional, the free alternative of Aseprite, but slightly behind in features and updates.
-- [Pixelorama](https://orama-interactive.itch.io/pixelorama) Optional, a powerful and accessible open-source pixel art multitool, made in the Godot Engine, by [Orama Interactive](https://itch.io/profile/orama-interactive)
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) Optional, a powerful and accessible open-source pixel art multitool.
 
 **Disclaimer!**
 You must own Starbound to mod the game. Cracked versions are for educational purposes only and are not supported.
