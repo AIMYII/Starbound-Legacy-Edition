@@ -16,9 +16,13 @@ You must own Starbound to mod the game. Cracked versions are for educational pur
 
 This mod may require access to older Alpha/Beta builds. Please ensure you legally own these versions.
 
-go to the [Version history](https://starbounder.org/Version_history) and scroll down to the earliest version of Starbound.
 
-Check the Notable Changes notes to see added weapons, removed assets, and other lost content.
+How to Contribute:
+
+- go to the [Version history](https://starbounder.org/Version_history) and scroll down to the earliest version of Starbound.
+
+- Check the Notable Changes notes to see added weapons, removed assets, and other lost content.
+
 
 Disclaimer
 **This is a fan-made mod. Starbound and its assets are owned by Chucklefish. This project is not affiliated with or endorsed by Chucklefish.**
