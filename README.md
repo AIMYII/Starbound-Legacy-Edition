@@ -34,8 +34,6 @@ How to Contribute:
 
 - https://starbound.fandom.com/wiki/Category:Removed
 
-- To get the alpha and beta versions, you can use: https://steamdb.info/app/211820/depots/
-
 - https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
 
 
