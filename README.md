@@ -22,5 +22,19 @@ How to Contribute:
 
 - Check the Notable Changes notes to see added weapons, removed assets, and other lost content.
 
+- Other links:
+
+- https://starbounder.org/Sectors
+
+- https://starbounder.org/Category:Removed_Weapon
+
+- https://starbounder.org/Category:Removed_Ore
+
+- https://starbounder.org/Category:Removed_Command
+
+- https://starbound.fandom.com/wiki/Category:Removed
+
+- https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
+
 
 **This is a fan-made mod. Starbound and its assets are owned by Chucklefish. This project is not affiliated with or endorsed by Chucklefish.**
