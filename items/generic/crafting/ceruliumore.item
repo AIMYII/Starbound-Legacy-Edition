@@ -1,0 +1,15 @@
+{
+    "itemName": "ceruliumore",
+    "price": 10,
+    "rarity": "Common",
+    "category": "craftingMaterial",
+    "inventoryIcon": "ceruliumore.png",
+    "description": "Cerulium ore. Can be used for smelting.",
+    "shortdescription": "Cerulium Ore",
+    "itemTags": [
+        "reagent"
+    ],
+    "radioMessagesOnPickup": [
+        "pickupore"
+    ]
+}
