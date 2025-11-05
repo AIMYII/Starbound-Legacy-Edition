@@ -21,6 +21,12 @@ How to Contribute:
 
 - Check the Notable Changes notes to see added weapons, removed assets, and other lost content.
 
+  
+- If you found a removed asset, please search for when it was added into the game.
+
+- Eg: Cerulium Ore was added during the "Rampaging Koala" update.
+  
+
 - Other links:
 
 - https://starbounder.org/Sectors
@@ -34,10 +40,6 @@ How to Contribute:
 - https://starbound.fandom.com/wiki/Category:Removed
 
 - https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
-
-- If you found a removed asset, please search for when it was added into the game.
-
-- Eg: Cerulium Ore was added during the "Rampaging Koala" update.
 
 
 **This is a fan-made mod. Starbound and its assets are owned by Chucklefish. This project is not affiliated with or endorsed by Chucklefish.**
