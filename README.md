@@ -33,13 +33,15 @@ How to Contribute:
 
 - https://starbounder.org/Category:Removed_Weapon
 
-- https://starbounder.org/Category:Removed_Ore
-
 - https://starbounder.org/Category:Removed_Command
 
 - https://starbound.fandom.com/wiki/Category:Removed
 
 - https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
+
+- **Completed:**
+
+- https://starbounder.org/Category:Removed_Ore
 
 
 **This is a fan-made mod. Starbound and its assets are owned by Chucklefish. This project is not affiliated with or endorsed by Chucklefish.**
