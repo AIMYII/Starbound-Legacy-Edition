@@ -11,10 +11,9 @@ Tools:
 - [SteamDB](https://steamdb.info/app/211820/depots/) Required, has the oldest/latest manifests and builds.
 
 **Disclaimer!**
-You must own Starbound to mod the game. Cracked versions are for educational purposes only and are not supported.
+You must own Starbound to mod the game. Cracked versions are not supported.
 
-This mod may require access to older Alpha/Beta builds. Please ensure you legally own these versions.
-
+This mod may require access to older Alpha/Beta builds.
 
 How to Contribute:
 
