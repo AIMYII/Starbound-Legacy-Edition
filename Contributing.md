@@ -26,6 +26,8 @@ WIP
 
 - https://starbounder.org/Copper_Cog
 
+- https://starbounder.org/Apex_Research_Lab
+
 **Completed:**
 
 - https://starbounder.org/Category:Removed_Ore
