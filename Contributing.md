@@ -24,6 +24,8 @@ WIP
 
 - https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
 
+- https://starbounder.org/Copper_Cog
+
 **Completed:**
 
 - https://starbounder.org/Category:Removed_Ore
