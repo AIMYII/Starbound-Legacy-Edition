@@ -28,6 +28,10 @@ WIP
 
 - https://starbounder.org/Apex_Research_Lab
 
+- https://starbounder.org/Bosses#Removed_Bosses
+
 **Completed:**
 
 - https://starbounder.org/Category:Removed_Ore
+
+- https://starbounder.org/Peanut_Butter_Trap
