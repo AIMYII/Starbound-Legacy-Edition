@@ -1,10 +1,10 @@
 {
-  "itemName" : "aegisaltrifle",
+  "itemName" : "gluesprayerGun",
   "price" : 1080,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "Spray a sticky foam that slows down enemies!",
-  "shortdescription" : "Aegisalt Rifle",
+  "shortdescription" : "Glue sprayer gun",
   "category" : "uniqueWeapon",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged","pistol"],
@@ -16,7 +16,7 @@
 
   "animation" : "aegisaltrifle.animation",
   "animationParts" : {
-    "middle" : "aegisaltrifle.png",
+    "middle" : "aegisaltriflegun.png",
     "middleFullbright" : "aegisaltriflefullbright.png",
     "muzzleFlash" : ""
   },
