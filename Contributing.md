@@ -16,22 +16,24 @@ You can start any of the links below, or add them to the list. Please remember t
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Removed assets from the game:**
-
-  - https://starbounder.org/Sectors
   
   - https://starbounder.org/Category:Removed_Weapon
   
   - https://starbounder.org/Category:Removed_Command
   
-  - https://starbound.fandom.com/wiki/Category:Removed
-  
+  - https://starbounder.org/Bosses#Removed_Bosses
+
+  - https://starbounder.org/Category:Removed_Quest
+
   - https://starbounder.org/Bosses#Removed_Bosses
   
   - https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
   
   - https://starbounder.org/Apex_Research_Lab
-  
-  - https://starbounder.org/Bosses#Removed_Bosses
+
+  - https://starbound.fandom.com/wiki/Category:Removed
+
+  - https://starbounder.org/Sectors
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
