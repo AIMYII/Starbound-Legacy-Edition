@@ -29,8 +29,6 @@ You can start any of the links below, or add them to the list. Please remember t
   
   - https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
   
-  - https://starbounder.org/Copper_Cog
-  
   - https://starbounder.org/Apex_Research_Lab
   
   - https://starbounder.org/Bosses#Removed_Bosses
@@ -42,3 +40,5 @@ You can start any of the links below, or add them to the list. Please remember t
 - https://starbounder.org/Category:Removed_Ore
 
 - https://starbounder.org/Peanut_Butter_Trap
+
+- https://starbounder.org/Copper_Cog
