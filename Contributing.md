@@ -25,6 +25,8 @@ You can start any of the links below, or add them to the list. Please remember t
 
   - https://starbounder.org/Category:Removed_Quest
 
+  - https://starbounder.org/Category:Removed_Object
+
   - https://starbounder.org/Bosses#Removed_Bosses
   
   - https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
@@ -34,6 +36,8 @@ You can start any of the links below, or add them to the list. Please remember t
   - https://starbound.fandom.com/wiki/Category:Removed
 
   - https://starbounder.org/Sectors
+
+  - https://starbounder.org/Category:Disabled
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
