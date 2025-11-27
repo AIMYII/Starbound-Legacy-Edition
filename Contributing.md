@@ -1,5 +1,7 @@
 WIP
 
+You can start any of the links below. Please remember to put them in the Complete section, when you added them to the mod, thank you!
+
 **How to Contribute:**
 
 - go to the [Version history](https://starbounder.org/Version_history) and scroll down to the earliest version of Starbound.
@@ -21,6 +23,8 @@ WIP
 - https://starbounder.org/Category:Removed_Command
 
 - https://starbound.fandom.com/wiki/Category:Removed
+
+- https://starbounder.org/Bosses#Removed_Bosses
 
 - https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
 
