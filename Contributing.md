@@ -22,11 +22,8 @@ You can start any of the links below, or add them to the list. Please remember t
 
   - https://starbounder.org/Category:Removed_Object
 
-  - https://starbounder.org/Bosses#Removed_Bosses
-
   - https://starbounder.org/Category:Removed_Structure
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   - https://steamcommunity.com/app/211820/discussions/0/353915309339412622/
   
