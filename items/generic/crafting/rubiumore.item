@@ -1,0 +1,15 @@
+{
+    "itemName": "rubiumore",
+    "price": 10,
+    "rarity": "Common",
+    "category": "craftingMaterial",
+    "inventoryIcon": "rubiumore.png",
+    "description": "Rubium ore. Can be used for smelting.",
+    "shortdescription": "Rubium Ore",
+    "itemTags": [
+        "reagent"
+    ],
+    "radioMessagesOnPickup": [
+        "pickupore"
+    ]
+}

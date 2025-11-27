@@ -1,0 +1,15 @@
+{
+    "itemName": "diamondore",
+    "price": 10,
+    "rarity": "Common",
+    "category": "craftingMaterial",
+    "inventoryIcon": "diamondore.png",
+    "description": "Diamond ore. Can be used for smelting.",
+    "shortdescription": "Diamond Ore",
+    "itemTags": [
+        "reagent"
+    ],
+    "radioMessagesOnPickup": [
+        "pickupore"
+    ]
+}

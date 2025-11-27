@@ -1,0 +1,22 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "visorState" : {
+        "default" : "off"
+      }
+    },
+    "parts" : {
+      "visor" : {
+        "properties" : {
+          "image" : "togglegoggles.png:1",
+          "hidden" : true
+        }
+      }
+    }
+  },
+  "sounds" : {
+    "switchOn" : ["/sfx/tech/blink.ogg"],
+    "switchOff" : ["/sfx/tech/hide.ogg"]
+  }
+}
+

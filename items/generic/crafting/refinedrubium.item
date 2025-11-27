@@ -1,0 +1,12 @@
+{
+    "itemName": "refinedrubium",
+    "price": 20,
+    "rarity": "Common",
+    "category": "craftingMaterial",
+    "inventoryIcon": "refinedrubium.png",
+    "description": "Ore for copper bars is found at shallow depths on most planets around all stars.",
+    "shortdescription": "Refined Rubium",
+    "itemTags": [
+        "reagent"
+    ]
+}

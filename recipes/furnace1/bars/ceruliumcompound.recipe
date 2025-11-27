@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ceruliumore", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "ceruliumcompound",
+    "count" : 1
+  },
+  "duration" : 0.15,
+  "groups" : [ "craftingfurnace", "bars", "all" ]
+}

@@ -1,0 +1,34 @@
+{
+  "objectName" : "robot",
+  "rarity" : "Common",
+
+  "category" : "tools",
+  "price" : 0,
+  "description" : "An inactive robot! I wonder what happens if it's switched on.",
+  "shortdescription" : "Inactive Robot",
+  "race" : "generic",
+
+  "apexDescription" : "An inactive robot. It looks pretty friendly!",
+  "avianDescription" : "Perhaps I can activate this robot and be met with gratitude.",
+  "floranDescription" : "Floran want wake metalman!",
+  "glitchDescription" : "Alarm. I detect a hostile logarhythm in this robot's programming.",
+  "humanDescription" : "All the other robots I've met have been mostly friendly, I bet this is too!",
+  "hylotlDescription" : "Even if this robot is hostile, I can no doubt use diplomacy to reason with it. ",
+  "novakidDescription" : "",
+
+  "inventoryIcon" : "inactiveroboticon.png",
+
+  "tooltipKind" : "tool",
+  "largeImage" : "inactiverobot.png:right",
+  
+  "orientations" : [
+    {
+      "dualImage" : "inactiverobot.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ]
+}
