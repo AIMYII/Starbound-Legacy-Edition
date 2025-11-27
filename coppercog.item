@@ -1,0 +1,12 @@
+{
+    "itemName": "coppercog",
+    "price": 20,
+    "rarity": "Common",
+    "category": "craftingMaterial",
+    "inventoryIcon": "coppercog.png",
+    "description": "It's a cog.",
+    "shortdescription": "Copper cog",
+    "itemTags": [
+        "reagent"
+    ]
+}
