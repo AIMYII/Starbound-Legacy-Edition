@@ -8,11 +8,6 @@ You can start any of the links below, or add them to the list. Please remember t
   
   - Check the Notable Changes notes to see added weapons, removed assets, and other lost content.
 
-**WIP:**
-  - If you found a removed asset, please search for when it was added into the game.
-  
-  - For example, the Cerulium Ore was added during the "Rampaging Koala" update.
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Removed assets from the game:**
