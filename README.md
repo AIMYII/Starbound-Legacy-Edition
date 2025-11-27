@@ -3,12 +3,15 @@ A fan-made legacy project restoring the charm of Starbound’s Alpha and Beta bu
 
 Tools:
 
-- [Love2D](https://love2d.org/wiki/Main_Page) Optional, for prototyping pure Lua logic or AI behavior outside of Starbound
+-**Required:**
 - [VS Code](https://code.visualstudio.com/) Required, use add-ons for Lua and C++. Recommended.
 - [Aseprite](https://www.aseprite.org/) Required, but has a one-time payment.
-- [Libresprite](https://libresprite.github.io/#!/) Optional, the free alternative of Aseprite, but slightly behind in features and updates.
-- [Pixelorama](https://orama-interactive.itch.io/pixelorama) Optional, a powerful and accessible open-source pixel art multitool.
 - [SteamDB](https://steamdb.info/app/211820/depots/) Required, has the oldest/latest manifests and builds.
+--
+-**Optional:**
+- [Love2D](https://love2d.org/wiki/Main_Page) Optional, for prototyping pure Lua logic or AI behavior outside of Starbound
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) Optional, a powerful and accessible open-source pixel art multitool.
+- [Libresprite](https://libresprite.github.io/#!/) Optional, the free alternative of Aseprite, but slightly behind in features and updates.
 
 **Disclaimer!**
 You must own Starbound to mod the game. Cracked versions are not supported.
