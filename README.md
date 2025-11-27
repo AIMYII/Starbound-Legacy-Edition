@@ -12,6 +12,8 @@ Tools:
 - [Love2D](https://love2d.org/wiki/Main_Page) Optional, for prototyping pure Lua logic or AI behavior outside of Starbound
 - [Pixelorama](https://orama-interactive.itch.io/pixelorama) Optional, a powerful and accessible open-source pixel art multitool.
 - [Libresprite](https://libresprite.github.io/#!/) Optional, the free alternative of Aseprite, but slightly behind in features and updates.
+- [GIMP](https://www.gimp.org/) Optional, does pixel art, but no animations, only GIFS
+- [OpenTOONZ](https://opentoonz.github.io/e/) Optional, does pixel art and animations.
 
 **Disclaimer!**
 You must own Starbound to mod the game. Cracked versions are not supported.
