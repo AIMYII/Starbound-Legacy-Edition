@@ -1,5 +1,5 @@
 {
-  "projectileName" : "gluespray",
+  "projectileName" : "gluesspray",
   "image" : "gluespray.png",
   "animationCycle" : 0.15,
   "frameNumber" : 1,
