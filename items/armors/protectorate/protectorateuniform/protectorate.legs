@@ -10,6 +10,10 @@
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
+  
+  "statusEffects" : [
+    "protectorateuniform"
+  ],
 
   "colorOptions" : [
     // PROTECTORATE BLUE

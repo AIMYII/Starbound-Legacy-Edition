@@ -1,0 +1,13 @@
+"protectorateUniform" : {
+  "properties" : {
+    "offset" : [0, 0]
+  },
+  "partStates" : {
+    "idle" : {
+      "properties" : {
+        "image" : ""
+      }
+    }
+  }
+}
+

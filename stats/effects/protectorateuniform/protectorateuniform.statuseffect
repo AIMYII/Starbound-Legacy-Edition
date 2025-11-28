@@ -1,6 +1,6 @@
 {
   "name": "protectorateuniform",
-  "duration": -1,
+  "duration": 1000,
   "scripts": [
     "/stats/effects/protectorateuniform/protectorateuniform.lua"
   ]
