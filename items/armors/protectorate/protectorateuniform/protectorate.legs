@@ -12,7 +12,7 @@
   "femaleFrames" : "pants.png",
   
   "statusEffects" : [
-    "protectorateuniform"
+    "uniformWatcher"
   ],
 
   "colorOptions" : [

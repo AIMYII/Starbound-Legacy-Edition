@@ -1,0 +1,14 @@
+{
+  "name": "uniformWatcher",
+  "effects": [],
+  "duration": 0.25,
+  "scripts": [
+    "/stats/effects/protectorateuniform/uniformWatcher.lua"
+  ],
+  
+  "animationConfig" : "uniformWatcher.animation",
+
+  "label" : "uniformWatcher",
+  "icon" : "/interface/statuses/uniformWatcher.png"
+}
+

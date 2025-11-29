@@ -1,0 +1,9 @@
+{
+  "name": "noClothesEffect",
+  "duration": 0.25,
+  "statWhitelist": [],
+  "effects": [
+    { "stat": "clothesStat", "amount": 1 }
+  ]
+}
+

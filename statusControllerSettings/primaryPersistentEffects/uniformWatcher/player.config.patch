@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/statusControllerSettings/primaryPersistentEffects/uniformWatcher",
+    "value": ["uniformWatcher"]
+  }
+]
+
