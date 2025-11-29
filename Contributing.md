@@ -44,3 +44,5 @@ You can start any of the links below, or add them to the list. Please remember t
 - https://starbounder.org/Peanut_Butter_Trap
 
 - https://starbounder.org/Copper_Cog
+
+- https://starbounder.org/Sensory_Squid_Hat
