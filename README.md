@@ -20,7 +20,7 @@ Tools:
 - [OpenToonz](https://opentoonz.github.io/e/) Optional, does pixel art and animations. Recommended.
 
 **Disclaimer!**
-You must own Starbound to mod the game. Cracked versions are not supported.
+You must own Starbound to mod the game. Hacked versions are not supported.
 
 This mod may require access to older Alpha/Beta builds.
 
