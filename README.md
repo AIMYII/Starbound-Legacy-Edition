@@ -22,6 +22,6 @@ Tools:
 **Disclaimer!**
 You must own Starbound to mod the game. Hacked versions are not supported.
 
-This mod may require access to older Alpha/Beta builds.
+This mod requires access to older Alpha/Beta builds.
 
 **This is a fan-made mod. Starbound and its assets are owned by Chucklefish. This project is not affiliated with or endorsed by Chucklefish.**
